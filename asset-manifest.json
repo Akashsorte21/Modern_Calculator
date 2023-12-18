@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Modern_Calculator/static/css/main.62d8293d.css",
+    "main.js": "/Modern_Calculator/static/js/main.174af37b.js",
+    "index.html": "/Modern_Calculator/index.html",
+    "main.62d8293d.css.map": "/Modern_Calculator/static/css/main.62d8293d.css.map",
+    "main.174af37b.js.map": "/Modern_Calculator/static/js/main.174af37b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62d8293d.css",
+    "static/js/main.174af37b.js"
+  ]
+}
